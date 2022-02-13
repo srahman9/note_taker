@@ -18,6 +18,8 @@ https://opensource.org/licenses/MIT
 This is a note taker app using the express package on Node.js. A starter code was provided then added apiRoutes, htmlRoutes and server.js file to operate this application.
 Please use the following link to access the deployed application: https://shafat-note-taker.herokuapp.com/
 
+![note_taker](https://user-images.githubusercontent.com/32348687/153775926-1e329a3c-153f-4e35-a7a6-51c1a566252b.PNG)
+
 ## Installation
 
 Copy the starter code and run NPM install.
